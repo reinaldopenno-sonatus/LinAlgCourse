@@ -5,7 +5,9 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "bokeh>=3.10.0",
     "ipykernel>=7.3.0",
+    "jupyter-bokeh>=4.1.0",
     "matplotlib>=3.11.2",
     "numpy>=2.5.3",
     "pandas>=3.0.6",
